@@ -5,8 +5,10 @@ Ce ePortfolio est un complément de mon CV.
 Ce site a été créé avec les langages HTML, CSS et Javascript.
 
 ## Comment Visualiser le ePortfolio
-1) Téléchargez le repository entier.  
-2) Ouvrir, à l'aide d'un navigateur internet, le fichier accueil.html  
+1) Téléchargez le repository entier:  
+    - cliquer sur <> Code
+    - cliquer sur Download zip     
+3) Ouvrir, à l'aide d'un navigateur internet, le fichier accueil.html  
 
 ## Autres informations
 Auteur: Manon GLAUDE  
