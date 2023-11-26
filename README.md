@@ -5,15 +5,17 @@ Ce ePortfolio est un complément de mon CV.
 Ce site a été créé avec les langages HTML, CSS et Javascript.
 
 ## Comment Visualiser le ePortfolio
-1) Téléchargez le repository entier:  
+1) Téléchargez le repository entier :  
     - cliquer sur <> Code
-    - cliquer sur Download zip     
-3) Ouvrir, à l'aide d'un navigateur internet, le fichier accueil.html  
+    - cliquer sur Download zip
+    - extrayez (linux) ou décompressez (windows) le dossier     
+2) Ouvrir, à l'aide d'un navigateur internet, le fichier accueil.html
+3) Changez de page directement sur le navigateur à l'aide des liens des pages
 
 ## Autres informations
-Auteur: Manon GLAUDE  
+Auteur : Manon GLAUDE  
 Université Sorbonne Paris Nord de Villetaneuse, [site de l'USPN](https://www.univ-spn.fr/)  
 IUT de Villetaneuse, [site de l'IUT de Villetaneuse](https://iutv.univ-paris13.fr/)  
-Version: Juin 2023  
-Dernière mise à jour du CV: le 22 novembre 2023
+Version : Juin 2023  
+Dernière mise à jour du CV : le 22 novembre 2023
 
